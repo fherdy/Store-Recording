@@ -22,7 +22,6 @@ export default class Product extends Component {
                         </p>):(<i className="fas fa-cart-plus"/>)
                     }
                     </button>
-            
                     </div> 
                     <div>
                         {/*Card footer*/}
@@ -35,10 +34,10 @@ export default class Product extends Component {
                             </div>
                         </div>
                  </div>
-         
             </ProductWrapper>
         );
     }
 }
  const ProductWrapper=styled.div `
+
  `
